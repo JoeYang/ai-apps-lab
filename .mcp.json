@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "trading-ops": {
+      "command": "/home/joeyang/clawd/ai-apps-lab/.venv/bin/python",
+      "args": ["/home/joeyang/clawd/ai-apps-lab/session-03/01_first_mcp_server.py"]
+    },
+    "trading-db": {
+      "command": "/home/joeyang/clawd/ai-apps-lab/.venv/bin/python",
+      "args": ["/home/joeyang/clawd/ai-apps-lab/session-03/03_trading_db_mcp.py"]
+    }
+  }
+}
